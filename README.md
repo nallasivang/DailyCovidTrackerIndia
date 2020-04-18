@@ -7,5 +7,6 @@
 ![Screenshot](/Screenshot.png)
 
 Thank you 
-Nallasivan
-[nallasivang.io!](https://nallasivang.github.io/)
+**Nallasivan**
+
+[nallasivang.io](https://nallasivang.github.io/)
